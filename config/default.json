@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://shailaja:Shailaja@login.lfx92.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mySecrettoken",
+    "githubClientId":"601d82e59e5b00070339",
+    "githubSecrete":"56bf3180fbb82dd25a4f5388cd4f210883beef48"
+
+}
